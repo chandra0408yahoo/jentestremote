@@ -9,6 +9,7 @@ public class stepdefs {
     @Given("^test one$")
     public void test_one() throws Throwable {
         System.out.println("line 1");
+        System.out.println("first one");
 
     }
 
